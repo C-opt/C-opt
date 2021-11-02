@@ -3,7 +3,7 @@
 - I'm currently working on a Reddit comments summarizer
 - I'm currently learning about natural language processing (for the comments summarizer)
 - I'm looking for help with 
-  - designing a data structure for editting graphs with 20k nodes or more (add, remove, change node content)
+  - designing a data structure for efficiently editting graphs with 20k nodes or more (add, remove, change node content)
   - visualizing such graph (which graph structures should it render? which ones should it not render?) 
 - You can reach me on Linkedin: https://www.linkedin.com/in/richardjunior/
 
