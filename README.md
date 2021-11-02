@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! 👋
+### I am Richard Rodrigues
+### a Machine Learning Engineer
+
+🔭 I’m currently working on 
+- 🌱 I’m currently learning ...
+
 
 <!--
 **C-opt/C-opt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
