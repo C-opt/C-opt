@@ -1,6 +1,4 @@
-### Hi there! 👋
-### I am Richard Rodrigues
-### a Machine Learning Engineer
+### Hi there! 👋 I am Richard Rodrigues, a Machine Learning Engineer
 
 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
