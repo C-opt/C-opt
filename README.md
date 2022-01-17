@@ -1,7 +1,7 @@
 ### Hi there! 👋 
 - My name is Richard Rodrigues and I am a Machine Learning Engineer
-- I'm currently working on Ideaflux, a Reddit comments summarizer (https://github.com/C-opt/idea_flux)
-- I'm currently learning about natural language processing (for the comments summarizer)
+- I'm currently working on Ideaflux, a Reddit comments text mining tool (https://github.com/C-opt/idea_flux)
+- I'm currently learning about natural language processing (IdeaFlux)
 - I'm looking for help with 
   - designing a data structure for efficiently editting graphs with 20k nodes or more (add, remove, change node content)
   - visualizing such graph (which graph structures should it render? which ones should it not render?) 
