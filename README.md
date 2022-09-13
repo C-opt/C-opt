@@ -6,7 +6,6 @@
   - designing a data structure for efficiently editting graphs with 20k nodes or more (add, remove, change node content)
   - visualizing such graph (which graph structures should it render? which ones should it not render?) 
 - You can reach me on Linkedin: https://www.linkedin.com/in/richardjunior/
-- Hobbies: exposing photons (https://www.instagram.com/rrtj.practice/), reading books
 
 <!--
 **C-opt/C-opt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
